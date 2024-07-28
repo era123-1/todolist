@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/era123-1/todolist.git/static/css/main.64b5b5b4.css",
+    "main.js": "/era123-1/todolist.git/static/js/main.9488a551.js",
+    "static/js/453.59bb3b6d.chunk.js": "/era123-1/todolist.git/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/era123-1/todolist.git/index.html",
+    "main.64b5b5b4.css.map": "/era123-1/todolist.git/static/css/main.64b5b5b4.css.map",
+    "main.9488a551.js.map": "/era123-1/todolist.git/static/js/main.9488a551.js.map",
+    "453.59bb3b6d.chunk.js.map": "/era123-1/todolist.git/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b5b5b4.css",
+    "static/js/main.9488a551.js"
+  ]
+}
